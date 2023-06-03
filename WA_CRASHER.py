@@ -79,9 +79,9 @@ def MSG():
 		main()
 	elif YTC == 'N' or YTC == 'n':
 		print("")
-		os.system("xdg-open https://T.me/TermuxhackTm")
+		os.system("xdg-open https://T.me/Error_fiat")
 		time.sleep(8)
-		os.system("xdg-open https://T.me/TermuxhackTm")
+		os.system("xdg-open https://T.me/Error_fiat")
 		time.sleep(3)
 		print(W + "\n\n")
 		main()
