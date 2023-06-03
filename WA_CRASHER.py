@@ -28,7 +28,7 @@ logo = f"""
              |_____|                                      
                                                    
 {W}
-KIller - @TermuxhackTm												  
+KIller - @error._.fiat => in instagram											  
 """
 os.system('clear')
 
